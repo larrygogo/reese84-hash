@@ -1,4 +1,3 @@
-const generate = require("@babel/generator").default;
 const { parse } = require("@babel/parser");
 const fs = require("node:fs");
 const Reese84 = require("./reese84");
